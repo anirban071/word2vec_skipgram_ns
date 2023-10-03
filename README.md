@@ -1,0 +1,2 @@
+# word2vec_skipgram_ns
+word2vec_skipgram_ns
