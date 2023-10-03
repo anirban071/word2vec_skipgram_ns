@@ -17,12 +17,12 @@ Solution!
 Negative Sampling – It is a technique that addresses the above issue by first change the structure target (input) and context (output) into all target + context (paired one) called positive samples and a sample of target + non-context (non-paired one) called negative samples.
 This eventually transforms the above problem into a binary logistic regression.
 
-	Links for further reading –
-	https://jalammar.github.io/illustrated-word2vec/
-	https://www.baeldung.com/cs/nlps-word2vec-negative-sampling
-	https://zhuanlan.zhihu.com/p/42651829
-	https://arxiv.org/pdf/1301.3781.pdf
-	https://proceedings.neurips.cc/paper/2013/file/9aa42b31882ec039965f3c4923ce901b-Paper.pdf
-	http://mccormickml.com/2017/01/11/word2vec-tutorial-part-2-negative-sampling/#:~:text=Word2Vec%20implements%20a%20%E2%80%9Csubsampling%E2%80%9D%20scheme,related%20to%20the%20word's%20frequency
+Links for further reading –
+https://jalammar.github.io/illustrated-word2vec/
+https://www.baeldung.com/cs/nlps-word2vec-negative-sampling
+https://zhuanlan.zhihu.com/p/42651829
+https://arxiv.org/pdf/1301.3781.pdf
+https://proceedings.neurips.cc/paper/2013/file/9aa42b31882ec039965f3c4923ce901b-Paper.pdf
+http://mccormickml.com/2017/01/11/word2vec-tutorial-part-2-negative-sampling/#:~:text=Word2Vec%20implements%20a%20%E2%80%9Csubsampling%E2%80%9D%20scheme,related%20to%20the%20word's%20frequency
 
 
