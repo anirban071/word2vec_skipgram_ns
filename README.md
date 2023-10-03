@@ -18,6 +18,7 @@ Negative Sampling – It is a technique that addresses the above issue by first 
 This eventually transforms the above problem into a binary logistic regression.
 
 Links for further reading –
+
 https://jalammar.github.io/illustrated-word2vec/
 https://www.baeldung.com/cs/nlps-word2vec-negative-sampling
 https://zhuanlan.zhihu.com/p/42651829
